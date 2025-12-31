@@ -1,5 +1,5 @@
 # JavaScript
-![Logo de JavaScript](https://imgs.search.brave.com/o1_AwwGCf6dXLaMMQkHZ5yOuxT57KiVN9nTfKWVnmFY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMjcv/MTI3LzU4Ny9zbWFs/bC9qYXZhc2NyaXB0/LWxvZ28tamF2YXNj/cmlwdC1pY29uLXRy/YW5zcGFyZW50LWZy/ZWUtcG5nLnBuZw) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="200" height="200"/>
 ## Descripción
 ### Este ejercicio consiste en que el usuario introduzca sus datos y sus aficiones, si falta algun dato por añadir o los datos estan mal escritos el programa avisa al usuario
 ---
